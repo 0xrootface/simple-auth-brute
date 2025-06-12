@@ -31,4 +31,4 @@ export GOBIN="/usr/local/bin" # Or any directory in your $PATH
 # export PATH="$PATH:$GOBIN" # Ensure GOBIN is in your PATH
 
 # Install the tool
-go install [github.com/0xrootface/simple-auth-brute@latest](https://github.com/0xrootface/simple-auth-brute@latest)
+go install github.com/0xrootface/simple-auth-brute@latest
